@@ -11,14 +11,13 @@
  * Return: Always 0 (success)
  */
 int main(void)
-	 {
+{
 		 char letter;
 	
 		 for (letter = 'a'; letter <= 'z'; letter++)
-			 putchar(alp[i]);
+			 putchar(letter);
 		
 		 puchar('\n');
 
-		 retturn (0);
-	 }
-	
+		 return (0);
+}	
