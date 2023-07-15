@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * main - Detremines is a number is positive,negative or zero
+ *
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 	int n;
