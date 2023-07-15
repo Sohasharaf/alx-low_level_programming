@@ -1,7 +1,7 @@
 /*
  *File: 3-print_alphabets.c
-Auth: soha sharaf
-*/
+ *Auth: soha
+ */
 #include <stdio.h>
 /**
  * main -  prints the alphabet in lowercase, and then in uppercase.
