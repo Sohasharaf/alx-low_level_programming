@@ -1,19 +1,24 @@
+/*
+ * File: 2-print_alphabet.c
+ * Auth: sohasharaf
+ */
+
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - prints the alphabet in lowercase
  *
  * Return: Always 0 (success)
  */
 int main(void)
 	 {
-		 char alp[26] = "abcdefghijklmnopqrstuvwxyz";
-		 int i;
-
-		 for (i = 0; i < 26; i++)
-		 {
+		 char letter;
+	
+		 for (letter = 'a'; letter <= 'z'; letter++)
 			 putchar(alp[i]);
-		 }
+		
 		 puchar('\n');
-		 return (0);
+
+		 retturn (0);
 	 }
+	
