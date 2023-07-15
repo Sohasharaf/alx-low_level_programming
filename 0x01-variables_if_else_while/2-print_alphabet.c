@@ -18,6 +18,5 @@ int main(void)
 			 putchar(letter);
 		
 		 puchar('\n');
-
 		 return (0);
 }	
