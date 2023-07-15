@@ -5,7 +5,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
  * main - print the last digit of the number stored in the variable n
  *
@@ -27,6 +26,6 @@ int main(void)
 		printf("Last digit of %d is %d and is less than 6 and not 0\n",
 			n, n % 10);
 	}
+
 	return (0);
 }
-	
