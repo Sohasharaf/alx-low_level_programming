@@ -3,7 +3,8 @@
 #include<time.h>
 
 /**
- * main - Generates random vaild passwords for the program 101-crackme.
+ * main - Generates random vaild passwords for the 
+ * program 101-crackme.
  * Return: Always 0
  */
 
@@ -47,4 +48,4 @@ int main(void)
 						}
 						printf("%s", password);
 						return (0);
-						}
+}
