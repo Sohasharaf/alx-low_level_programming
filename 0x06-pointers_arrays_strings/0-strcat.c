@@ -6,6 +6,7 @@
  * @src: input value
  * Return: void
  */
+
 char *_stract(char *dest, char *src)
 {
 	int i;
